@@ -35,6 +35,7 @@ jobs:
       #     filters: |
       #       workflows:
       #         - 'labs/L2LS/sites/site_1/**'
+      # test github
 
       # - name: Check paths for sites/site_2
       #   uses: dorny/paths-filter@v3
